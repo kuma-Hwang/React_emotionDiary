@@ -2,6 +2,5 @@
 
 "https://emotiondiary-kuma.web.app"
 
-![image](https://github.com/user-attachments/assets/b2054635-ca46-47f1-a731-0e01fdca595a)
--- 기본 화면
+![image](https://github.com/user-attachments/assets/b2054635-ca46-47f1-a731-0e01fdca595a)기본 화면
 
